@@ -1,0 +1,8 @@
+{
+  "name": "sdd-myspace-anshika",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "test": "node tests/task-1-1.test.js"
+  }
+}
