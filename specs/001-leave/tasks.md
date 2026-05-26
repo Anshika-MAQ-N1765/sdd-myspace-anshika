@@ -12,7 +12,7 @@
 
 **Exit condition**: Next.js + Prisma project structure is in place, environment variables are defined, and shared libraries exist for auth, logging, and caching.
 
-- [ ] T001 [P] Create `app/components/leave-widget.tsx` and `app/page.tsx` stubs for the dashboard widget UI.
+- [x] T001 [P] Create `app/components/leave-widget.tsx` and `app/page.tsx` stubs for the dashboard widget UI.
 - [ ] T002 [P] Add `src/lib/prisma.ts` for Prisma client initialization and `prisma/schema.prisma` placeholder.
 - [ ] T003 [P] Add `src/lib/auth.ts` with IdP token extraction and employee identity helper.
 - [ ] T004 [P] Add `src/lib/logging.ts` with structured logging helpers for `actor`, `action`, `entity_id`, `timestamp`, and `outcome`.
